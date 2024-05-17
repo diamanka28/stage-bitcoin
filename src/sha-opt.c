@@ -3,7 +3,7 @@
 #include<string.h>
 #include<stdint.h>
 #include "../include/sha-opt.h"
-
+//salut diamanka
 #define BLOCK_SIZE 64
 #define CHUNK_SIZE 16
 #define ROTR(x, n) (((x) >> (n)) | ((x) << (32 - (n))))
